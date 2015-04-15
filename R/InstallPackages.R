@@ -14,4 +14,4 @@ doinstall <- function(){
   library(C50)
 }
 
-
+doinstall()

@@ -2,7 +2,7 @@ Package: InstallPackageTest
 Title: What the Package Does (one line, title case)
 Version: 0.0.0.9000
 Authors@R: person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: Test if we can install R packages in code, no need to install them on the server.
+Description: Test if we can install R packages in code, instead of installing them on the server.
 Depends: R (>= 3.1.2)
 License: What license is it under?
 LazyData: true
